@@ -7,7 +7,7 @@ I work remotely and like to travel a lot. -->
 
 ### Languages and tools I work with:
 
-<code><img src="https://courseweb.design/wp-content/uploads/2021/03/html-js-css-logo-white-transparent-background-1024x375.png" width="30px"></code>
+<code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="30px"></code>
 <code><img src="https://batflat.org/themes/default/img/css-logo.png" width="20px"></code>
 <code><img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="30px"></code>
 <code><img src="https://icon-library.com/images/b-icon/b-icon-0.jpg" width="30px"></code>
