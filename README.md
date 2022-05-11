@@ -7,13 +7,13 @@ I work remotely and like to travel a lot. -->
 
 ### Languages and tools I work with:
 
-<code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="30px"></code>
-<code><img src="https://batflat.org/themes/default/img/css-logo.png" width="20px"></code>
-<code><img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="30px"></code>
-<code><img src="https://icon-library.com/images/b-icon/b-icon-0.jpg" width="30px"></code>
-<code><img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-black-and-white.png" width="30px"></code>
+<code><img src="https://icon-library.com/images/icon-html5/icon-html5-7.jpg" width="30px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="23px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="30px"></code>
+<code><img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" width="27px"></code>
+<code><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="26px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="30px"></code>
+<code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="28px"></code>
 
 <br />
 
