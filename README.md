@@ -5,7 +5,7 @@ I work remotely and like to travel a lot. -->
 
 <br />
 
-### Languages and tools I work with:
+### Languages and tools that I work with:
 
 <code><img src="https://icon-library.com/images/icon-html5/icon-html5-7.jpg" width="30px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="23px"></code>
