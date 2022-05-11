@@ -17,5 +17,5 @@ I work remotely and like to travel a lot. -->
 
 <br />
 
-📍 Current location: Lublin, Poland.
+📍 Current location: Lublin, Poland. <br />
 📨 How to reach me: tokhirjonkhasanov@gmail.com
