@@ -16,3 +16,6 @@ I work remotely and like to travel a lot. -->
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="30px"></code>
 
 <br />
+
+📍 Current location: Lublin, Poland.
+📨 How to reach me: tokhirjonkhasanov@gmail.com
