@@ -12,7 +12,7 @@ I work remotely and like to travel a lot. -->
 <code><img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="30px"></code>
 <code><img src="https://icon-library.com/images/b-icon/b-icon-0.jpg" width="30px"></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-black-and-white.png" width="30px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="30px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="30px"></code>
 
 <br />
